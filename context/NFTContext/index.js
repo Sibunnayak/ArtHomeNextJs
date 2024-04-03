@@ -62,7 +62,7 @@ export const NFTProvider = ({children}) => {
     const createNFT = async (formInput, fileUrl, router) => {
         const {name, description, price} = formInput;
 
-        if (!name || !description || !price) return alert("Please");
+        if (!name || !description || !price) return alert("Please fill in all fields!");
 
         try {
             const data = JSON.stringify({
