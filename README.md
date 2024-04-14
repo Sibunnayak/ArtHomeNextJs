@@ -2,7 +2,7 @@
 
 This project is an NFT Marketplace developed using Next.js, Solidity, and IPFS. It provides a decentralized platform for creators and collectors to trade Non-Fungible Tokens (NFTs) securely and efficiently. The project showcases my skills in building decentralized applications and leveraging cutting-edge technologies.
 
-## [<img src="external-link.svg" alt="image" style="width:20px;height:auto;">](https://arthomenfts-project.infosuraj.com/) Live Link (Deployed)
+## [<img src="external-link.svg" alt="image" style="width:20px;height:auto;">](https://arthome-nft-marketplace.netlify.app/) Live Link (Deployed)
 
 ### Features
 
